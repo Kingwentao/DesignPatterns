@@ -1,0 +1,10 @@
+package ÀÁººµ¥Àý;
+
+public class LazySingleton {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

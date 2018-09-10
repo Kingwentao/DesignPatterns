@@ -1,0 +1,30 @@
+package Ã¶¾Ùµ¥Àý;
+
+
+
+public class EnumSingleton {
+
+	
+	
+	private EnumSingleton(){};
+	
+	public static Enum getInstance(){
+		return Enum.INSTACE;
+	}
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Enum instance1=Enum.getInstance();
+		Enum instance2=Enum.getInstance();
+		System.out.println(instance1==instance2);
+	}
+	
+	enum Enum{
+		INSTACE;
+		public static Enum getInstance(){
+			return INSTACE;
+		}
+	}
+
+}

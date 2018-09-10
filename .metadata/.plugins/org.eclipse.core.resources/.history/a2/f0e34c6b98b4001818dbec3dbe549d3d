@@ -1,0 +1,20 @@
+package ¶öººµ¥Àý;
+
+public class HungerSingleton {
+
+	private static HungerSingleton singleton=new HungerSingleton();
+	private HungerSingleton() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public static HungerSingleton getSingleton() {
+		return singleton;
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		HungerSingleton.getSingleton();
+		System.out.println("ddd");
+	}
+
+}

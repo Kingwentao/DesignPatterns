@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;观察者模式.Snippet&apos; to &apos;ConcreteOberverOther&apos;&#x0D;&#x0A;- Original project: &apos;观察者模式&apos;&#x0D;&#x0A;- Original element: &apos;观察者模式.Snippet&apos;&#x0D;&#x0A;- Renamed element: &apos;观察者模式.ConcreteOberverOther&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Snippet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;观察者模式{Snippet.java[Snippet" matchStrategy="1" name="ConcreteOberverOther" qualified="false" references="true" similarDeclarations="false" stamp="1527512392551" textual="false" version="1.0"/>
+</session>

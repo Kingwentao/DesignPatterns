@@ -1,0 +1,10 @@
+package 静态内部类单例;
+
+public class InternalClassSingleton {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
